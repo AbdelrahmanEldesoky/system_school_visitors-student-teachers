@@ -1,0 +1,10 @@
+
+.intro-section, .intro-section .container .row {
+    height: 0vh !important;
+
+    min-height: 0px !important;
+}
+.intro-section
+{
+    min-height: 0px !important;
+}
